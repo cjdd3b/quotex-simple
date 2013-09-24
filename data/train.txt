@@ -1,0 +1,4 @@
+"I am a quote," Chase said|True
+I am not a quote, Chase said indirectly|False
+"Air quotes" are not quotes|False
+But "super long quotes that fall in the middle of a paragraph are," Chase said|True
